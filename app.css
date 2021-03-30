@@ -1,0 +1,15 @@
+h1{
+color: red;
+font-family: "Brush Script MT" ;
+}
+body{
+    background-color:rgba(255, 99, 71, 0.5);
+}
+#clock {
+    font-size: 175px;
+    width: 900px;
+    margin: 200px;
+    text-align: center;
+    border: 2px solid black;
+    border-radius: 20px;
+  }
